@@ -7,15 +7,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-header {
-  background-color: #404040;
-  padding: 16px;
-}
-header a {
-  color: #ffffff;
-  font-weight: bold;
-  text-decoration: none;
-}
 main {
   padding: 16px;
 }
@@ -27,14 +18,14 @@ main {
 
 .product {
   border: 1px #404040 solid;
-  margin: 8px;
-  width: 325px;
+  margin: 16px;
+  width: 350px;
 }
 .product img {
   /* width: 100%;
   max-width: 400px; */
   height: 325px;
-  width: 325px;
+  width: 330px;
 }
 .product-info {
   padding: 30px;
