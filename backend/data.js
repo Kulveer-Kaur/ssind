@@ -1,6 +1,7 @@
 const data = {
   products: [
     {
+      _id: "1",
       name: "ER Collets",
       slug: "er-collets",
       category: "Collets",
@@ -13,6 +14,7 @@ const data = {
       description: "high quality collets",
     },
     {
+      _id: "2",
       name: "R8 Collets",
       slug: "r8-collets",
       category: "collets",
@@ -25,6 +27,7 @@ const data = {
       description: "high quality collets",
     },
     {
+      _id: "3",
       name: "TG Collets",
       slug: "tg-collets",
       category: "Collets",
@@ -37,6 +40,7 @@ const data = {
       description: "high quality collets",
     },
     {
+      _id: "4",
       name: "355 E Collets",
       slug: "355-e-collets",
       category: "Collets",
@@ -49,6 +53,7 @@ const data = {
       description: "high quality collets",
     },
     {
+      _id: "5",
       name: "Drill Collets",
       slug: "drill-collets",
       category: "Collets",
@@ -61,6 +66,7 @@ const data = {
       description: "high quality collets",
     },
     {
+      _id: "6",
       name: "Tap Collets",
       slug: "tap-collets",
       category: "Collets",
